@@ -38,7 +38,7 @@ requirements:
 - git
 - pnpm
 
-1. clone the repo: `git clone https://github.com/imputnet/cobalt`.
+1. clone the repo: `git clone https://github.com/pfernandez98/cobalt`.
 2. go to api/src directory: `cd cobalt/api/src`.
 3. install dependencies: `pnpm install`.
 4. create `.env` file in the same directory.
@@ -47,7 +47,7 @@ requirements:
 6. run cobalt: `pnpm start`.
 
 ### ubuntu 22.04 workaround
-`nscd` needs to be installed and running so that the `ffmpeg-static` binary can resolve DNS ([#101](https://github.com/imputnet/cobalt/issues/101#issuecomment-1494822258)):
+`nscd` needs to be installed and running so that the `ffmpeg-static` binary can resolve DNS ([#101](https://github.com/pfernandez98/cobalt/issues/101#issuecomment-1494822258)):
 
 ```bash
 sudo apt install nscd

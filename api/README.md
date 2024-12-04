@@ -13,7 +13,7 @@ you can read [the api documentation here](/docs/api.md).
 
 > [!WARNING]
 > the v7 public api (/api/json) will be shut down on **november 11th, 2024**.
-> you can access documentation for it [here](https://github.com/imputnet/cobalt/blob/7/docs/api.md).
+> you can access documentation for it [here](https://github.com/pfernandez98/cobalt/blob/7/docs/api.md).
 
 ## supported services
 this list is not final and keeps expanding over time. if support for a service you want is missing, create an issue (or a pull request 👀).

@@ -3,7 +3,7 @@
 
     import CobaltSticker from "$components/icons/CobaltSticker.svelte";
 
-    // please add a source link (https://github.com/imputnet/cobalt) if you use this implementation
+    // please add a source link (https://github.com/pfernandez98/cobalt) if you use this implementation
     // i spent 4 hours switching between simulators and devices to get the best way to do this
 
     $: safeAreaTop = 0;

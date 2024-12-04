@@ -125,7 +125,7 @@
 
 <!--
     if you want to remove the community instance label,
-    refer to the license first https://github.com/imputnet/cobalt/tree/main/web#license
+    refer to the license first https://github.com/pfernandez98/cobalt/tree/main/web#license
 -->
 {#if env.DEFAULT_API || (!$page.url.host.endsWith(".cobalt.tools") && $page.url.host !== "cobalt.tools")}
     <div id="instance-label">

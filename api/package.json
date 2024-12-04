@@ -1,7 +1,7 @@
 {
     "name": "@imput/cobalt-api",
     "description": "save what you love",
-    "version": "10.4.2",
+    "version": "0.1",
     "author": "imput",
     "exports": "./src/cobalt.js",
     "type": "module",
@@ -16,13 +16,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/imputnet/cobalt.git"
+        "url": "git+https://github.com/pfernandez98/cobalt.git"
     },
     "license": "AGPL-3.0",
     "bugs": {
-        "url": "https://github.com/imputnet/cobalt/issues"
+        "url": "https://github.com/pfernandez98/cobalt/issues"
     },
-    "homepage": "https://github.com/imputnet/cobalt#readme",
+    "homepage": "https://github.com/pfernandez98/cobalt#readme",
     "dependencies": {
         "@datastructures-js/priority-queue": "^6.3.1",
         "@imput/psl": "^2.0.4",
